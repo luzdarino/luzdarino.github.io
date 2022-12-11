@@ -1,0 +1,33 @@
+.titulo{
+  text-align: center;
+  color: #41403e;
+}
+
+.body{
+  background-color: black;
+}
+.container{
+  color: black;
+}
+.cuadro{
+  width: auto;
+  height: 200px;
+  background: grey;
+  position: absolute;
+  top: 2600px;
+  left: 0px;
+  right: 0px;
+}
+
+.indice{
+color: #41403e;
+  text-decoration: none;
+}
+
+.creditos{
+  text-align: center;
+}
+
+.a{
+  text-decoration: none;
+}
