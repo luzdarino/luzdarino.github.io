@@ -1,0 +1,39 @@
+.titulo{
+  text-align: center;
+  color: #41403e;
+  background-color: #8BB6FF;
+  border-radius: 20px;
+}
+
+button{
+    background-color:#CDBEFF;
+}
+
+.card-body{
+    background-color:#FBF8BB;
+}
+
+body{
+  background-color: #FF957E;
+}
+.ejercicios{
+  text-align: center;
+}
+
+.indice{
+color: #41403e;
+  text-decoration: none;
+}
+
+.creditos{
+  text-align: center;
+  border-radius: 20px;
+  background-color: #8BB6FF;
+  width: inherit;
+  height: 270px;
+}
+
+a{
+  text-decoration: none;
+
+}
