@@ -1,7 +1,7 @@
 .simplescrollup__button {
 	position: fixed;
 	bottom: 3rem;
-	right: 1rem;
+	right: 0rem;
 	transition: 2s all;
 	z-index: 10000;
 
